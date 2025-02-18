@@ -130,4 +130,5 @@ h4 {
     left: 0;
     margin: auto;
     text-align: center;
+    display: inline;
 }
