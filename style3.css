@@ -69,3 +69,7 @@ h4 {
     margin: auto;
     text-align: center;
 }
+
+#undermenu li{
+    display: inline-block;
+}
