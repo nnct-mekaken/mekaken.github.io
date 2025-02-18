@@ -132,3 +132,7 @@ h4 {
     text-align: center;
     display: inline;
 }
+
+#undermenu li{
+    display: inline-block;
+}
