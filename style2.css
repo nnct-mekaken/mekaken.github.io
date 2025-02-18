@@ -46,3 +46,7 @@ body {
     margin: auto;
     text-align: center;
 }
+
+#undermenu li{
+    display: inline-block;
+}
