@@ -8,7 +8,7 @@
  - 機械研究会部員のHTML・CSS・JavaScript学習
 
 ## コンセプト
-[機械研究会のwixサイト(https://mekaken2024.wixsite.com/nnct-kikaikenkyukai)]はそれなりに整ったデザインであるが、若干重い。
+[機械研究会のwixサイト](https://mekaken2024.wixsite.com/nnct-kikaikenkyukai)はそれなりに整ったデザインであるが、若干重い。
 そこで、その対極となる「軽くて、ちょっと時代遅れな」ホームページをあえて制作することとした。
 デザインは少し古臭いが、タグ等はできるだけ新しいものを採用する。
 
