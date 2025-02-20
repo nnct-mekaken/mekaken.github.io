@@ -29,8 +29,8 @@ h2 span {
 }
 
 body {
-    background: gray;
-    background-image: url(5haikei3.jpg);
+    background: gray url(haikei6.jpg) repeat;
+    /*background-image: ;*/
     background-repeat: repeat;
     background-size: 100px;
     height: 100px;
