@@ -124,9 +124,8 @@ h4 {
 }
 
 #footer {
-    position: relative;
-    top:auto;
-    bottom: 0px;
+    position: absolute;
+    top:3200px;
     right: 0;
     left: 0;
     margin: auto;
