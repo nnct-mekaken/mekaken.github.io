@@ -136,3 +136,7 @@ h4 {
 #undermenu li{
     display: inline-block;
 }
+
+.kansuji {
+    list-style-type: japanese-informal;
+}
