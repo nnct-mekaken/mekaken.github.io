@@ -51,3 +51,6 @@ h4 {
     color: #1a1a1c;
     font-family: "sans-serif";
 }
+a[target="_blank"] ::after {
+        background-image:url(link1.svg);
+}
