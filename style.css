@@ -16,6 +16,7 @@
     width: 300px;
 }
 #item1 {
+    font-family:fantasy;
     margin-right: 0px;
     border-left:double 3px #000000;
     border-right: double 3px #000000;
