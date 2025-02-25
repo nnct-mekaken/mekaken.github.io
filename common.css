@@ -45,3 +45,7 @@ h4 {
 #undermenu li{
     display: inline-block;
 }
+.footermenu {
+    text-decoration:none;
+    color: #0066c0;
+}
