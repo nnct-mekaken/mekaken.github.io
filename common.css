@@ -1,13 +1,13 @@
 @charset "utf-8";
-
+h2 span {
+    font-size: 20px;
+}
 p{
     color: #000000;
 }
-
 h1 {
     border-bottom:dashed 2px #6594e0 ;
 }
-
 h2 {
     text-shadow: 1px 2px 2px #000000;
     background-image:linear-gradient(to left,rgba(255,255,255,0.1),rgba(255,255,255,0.3)), url(newtop.webp);
@@ -15,7 +15,6 @@ h2 {
     background-repeat: no-repeat;
     height: 250px;
 }  
-
 h3 {
     padding:0.5em;
     color:#010101;
@@ -23,7 +22,6 @@ h3 {
     border-bottom: solid 3px #516ab6;
     border-right: solid 3px #516ab6;
 }
-
 body {
     background-color: #d3d3d3;
     background-image: url(haikei6.jpg);
@@ -31,12 +29,10 @@ body {
     background-size: 200px;
     height: 100px;
 }
-
 h4 {
     font-family: 游明朝;
     font-size: 20px;
 }
-
 #footer {
     position: absolute;
     top:2000px;
@@ -46,7 +42,6 @@ h4 {
     text-align: center;
     display: inline;
 }
-
 #undermenu li{
     display: inline-block;
 }
