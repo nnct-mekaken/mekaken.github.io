@@ -51,7 +51,7 @@ h4 {
     color: #1a1a1c;
     font-family: "sans-serif";
 }
-a[target="_blank"]:after {
+a.outlink[target="_blank"]:after {
     content: '';
     margin-left:6px;
     display: inline-block;
