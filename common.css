@@ -46,7 +46,7 @@ h4 {
     display: inline-block;
 }
 .footermenu {
-    text-decoration: none;
-    color: #1558d6;
+    /*text-decoration: none*/
+    color: #1a1a1c;
     font-family: "sans-serif";
 }
