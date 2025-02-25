@@ -52,5 +52,6 @@ h4 {
     font-family: "sans-serif";
 }
 a[target="_blank"] ::after {
-        background-image:url(link1.svg);
+    background-image: url(link1.png);
+    background-repeat: no-repeat;
 }
