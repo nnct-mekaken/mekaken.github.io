@@ -1,4 +1,4 @@
-@charset "utf-8";
+/*@charset "utf-8";
 
 p{
     color: #000000;
@@ -22,19 +22,19 @@ h3 {
     background: #eaf3ff;
     border-bottom: solid 3px #516ab6;
     border-right: solid 3px #516ab6;
-}
+}*/
 
 h2 span {
     font-size: 20px;
 }
-
+/*
 body {
     background-color: #d3d3d3;
     background-image: url(haikei6.jpg);
     background-repeat: repeat;
     background-size: 200px;
     height: 100px;
-}
+}*/
 
 .container1 {
     display: flex;
@@ -118,10 +118,11 @@ body {
     margin-right: 30px;
 }
 
+/*
 h4 {
     font-family: 游明朝;
     font-size: 20px;
-}
+}*/
 
 #footer {
     position: absolute;
