@@ -51,7 +51,14 @@ h4 {
     color: #1a1a1c;
     font-family: "sans-serif";
 }
-a[target="_blank"] ::after {
-    background-image: url(link1.png);
+a[target="_blank"]:after {
+    content: '';
+    padding-left:3px;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: url(link1.png);
     background-repeat: no-repeat;
+    background-size: contain;
+    vertical-align: middle;
 }
