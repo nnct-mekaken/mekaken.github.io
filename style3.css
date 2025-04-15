@@ -14,7 +14,7 @@
 }
 #footer {
     position: absolute;
-    bottom: 0px;
+    top: 1800px;
     right: 0;
     left: 0;
     margin: auto;
