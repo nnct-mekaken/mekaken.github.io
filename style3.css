@@ -12,3 +12,12 @@
 #t2025 td:first-child {
     width: 100px;
 }
+#footer {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    left: 0;
+    margin: auto;
+    text-align: center;
+    display: inline;
+}

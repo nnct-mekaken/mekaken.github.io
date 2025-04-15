@@ -34,15 +34,6 @@ h4 {
     font-family: 游明朝;
     font-size: 20px;
 }
-#footer {
-    position: absolute;
-    bottom:0;
-    right: 0;
-    left: 0;
-    margin: auto;
-    text-align: center;
-    display: inline;
-}
 #undermenu li{
     display: inline-block;
 }
