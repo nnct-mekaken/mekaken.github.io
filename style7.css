@@ -4,7 +4,7 @@ html {
 }
 #footer {
     position: absolute;
-    bottom: 0px;
+    top: 3800px;
     right: 0;
     left: 0;
     margin: auto;
